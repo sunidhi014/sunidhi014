@@ -43,9 +43,9 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiGoyat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sunidhi014&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sunidhi014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -61,8 +61,6 @@
   
 <h4> 📬 Reach me out </h4>
 <p align="left">
-<a href = "https://www.linkedin.com/in/sakshi-goyat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sakshi_goyat_14/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a> -->
+<a href = "https://in.linkedin.com/in/sunidhi-singh-44b05218b"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_singh_sunidhi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
