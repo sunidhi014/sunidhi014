@@ -27,102 +27,16 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
 ### 💻 Tech Stack:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/java-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/python-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/mysql-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev/icons?i=html" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48">
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev/icons?i=css" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48">
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/js-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/react-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev/icons?i=nodejs" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="65" height="65">
-      </a>
-      <br>Node
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev/icons?i=fastapi" target="_blank">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48">
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/django-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65">
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/docker-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65">
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://techstack-generator.vercel.app/google-cloud-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/google-cloud-icon.svg" alt="Google Cloud Platform" width="65" height="65">
-      </a>
-      <br>Google Cloud Platform
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev/icons?i=git" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48">
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
-      <br>Linux
-    </td>
- </tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,bootstrap,react,nodejs" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
