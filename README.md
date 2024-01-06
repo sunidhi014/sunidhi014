@@ -10,14 +10,14 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-### 🙋‍♂️ About Me
+### 🙋‍♀️ About Me
 - 👩‍🎓 Completed my B.Tech journey at **Noida Institute of Engineering and Technology**.
 
 - 🔭 I’m looking to contribute to **Open Source**
 
 - 🌱 I’m currently exploring **Machine learning**
 
-- 👨‍💻 Know me more <a href="" style="text-decoration: none;">Portfolio</a>
+- 👩‍💻 Know me more <a href="" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="" style="text-decoration: none;">Email</a>
 
