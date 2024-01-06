@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sunidhi014&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=sunidhi014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
 [![](https://visitcount.itsvg.in/api?id=sunidhi014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="left">
