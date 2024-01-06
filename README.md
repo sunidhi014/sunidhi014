@@ -4,14 +4,14 @@
 
 <h1 align="center">Hi 👋, I'm Sunidhi Singh</h1>
 
-<h3 align="center">A passionate Full stack web developer from India. </h3>
+<h3 align="center">A passionate Full Stack Web Developer from India. </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **IIIT Gwalior studying Computer Science**
+- 👩‍🎓 Completed my B.Tech journey at **Noida Institute of Engineering and Technology**.
 
 - 🔭 I’m looking to contribute to **Open Source**
 
