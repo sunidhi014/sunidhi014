@@ -42,9 +42,9 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sunidhi014&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sunidhi014&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![sunidhi014's Stats](https://github-readme-stats.vercel.app/api?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![sunidhi014's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunidhi014&theme=radical&hide_border=false)<br/>
+![sunidhi014's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=sunidhi014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="left">
