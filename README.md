@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently exploring **Machine learning**
 
-- 👩‍💻 Know me more <a href="" style="text-decoration: none;">Portfolio</a>
+- 👩‍💻 Know me more <a href="https://sunidhi-singh.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="" style="text-decoration: none;">Email</a>
 
