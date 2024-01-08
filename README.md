@@ -19,7 +19,7 @@
 
 - 👩‍💻 Know me more <a href="https://sunidhi-singh.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
-- 📝 Feel free to reach out to me here: <a href="" style="text-decoration: none;">Email</a>
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sksunidhi2019@gmail.com" style="text-decoration: none;">Email</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
